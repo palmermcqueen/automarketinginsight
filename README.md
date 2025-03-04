@@ -5,14 +5,12 @@ This lab project focuses on analyzing car market data to identify key trends and
 
 #### **Objectives**  
 - Analyze trends in car prices over time.  
-- Compare average car prices by brand.  
 - Examine the correlation between price and mileage.  
 - Generate insights to help in market decision-making.  
 
 #### **Tools Used**  
 - **Excel**: Data preprocessing, calculations, and correlation analysis.  
-- **Tableau/Power BI**: Data visualization (optional for advanced analysis).  
-- **Python (pandas, matplotlib, seaborn)**: Additional statistical analysis (optional).  
+- **Tableau/Power BI**: Data visualization (optional for advanced analysis).
 
 #### **Key Findings**  
 - The average price of cars has shown a steady increase over the years.  
